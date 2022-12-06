@@ -1,0 +1,10 @@
+h1 {
+    background-color: orange;
+    color: blue; 
+    border: 2px solid black;
+    text-align: center;
+ }
+ h2 {
+     color: orange;
+     text-align: right;
+ }
